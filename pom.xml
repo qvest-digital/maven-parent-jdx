@@ -7,7 +7,7 @@
 		<version>2.900</version>
 	</parent>
 	<artifactId>jdx</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<packaging>jar</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>JavaDoc eXtras — what Oracle missed…</description>
@@ -23,6 +23,6 @@
 		<connection>scm:git:https://evolvis.org/anonscm/git/tartools/jdx.git</connection>
 		<developerConnection>scm:git:ssh://maven@evolvis.org/scmrepos/git/tartools/jdx.git</developerConnection>
 		<url>https://evolvis.org/plugins/scmgit/cgi-bin/gitweb.cgi?p=tartools/jdx.git</url>
-		<tag>HEAD</tag>
+		<tag>jdx-0.1</tag>
 	</scm>
 </project>
