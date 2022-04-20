@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>org.evolvis.tartools.maven-parent</groupId>
+		<artifactId>pom</artifactId>
+		<version>2.4-SNAPSHOT</version>
+	</parent>
+	<artifactId>jdx</artifactId>
+	<version>0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+	<name>${project.groupId}:${project.artifactId}</name>
+	<description>JavaDoc eXtras — what Oracle missed…</description>
+	<url>https://evolvis.org/projects/tartools/</url>
+	<properties>
+		<archiver.copyright.firstyear>2022</archiver.copyright.firstyear>
+		<archiver.copyright.lastyear>2022</archiver.copyright.lastyear>
+		<archiver.copyright>Probably not copyrightable. Research © 2021, 2022 mirabilos, ⮡ tarent</archiver.copyright>
+		<!-- packaging -->
+		<maven.source.skip>true</maven.source.skip>
+	</properties>
+	<scm>
+		<connection>scm:git:https://evolvis.org/anonscm/git/tartools/jdx.git</connection>
+		<developerConnection>scm:git:ssh://maven@evolvis.org/scmrepos/git/tartools/jdx.git</developerConnection>
+		<url>https://evolvis.org/plugins/scmgit/cgi-bin/gitweb.cgi?p=tartools/jdx.git</url>
+		<tag>HEAD</tag>
+	</scm>
+	<build>
+		<plugins>
+		</plugins>
+	</build>
+</project>
