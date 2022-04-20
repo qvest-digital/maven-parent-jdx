@@ -4,10 +4,10 @@
 	<parent>
 		<groupId>org.evolvis.tartools.maven-parent</groupId>
 		<artifactId>pom</artifactId>
-		<version>2.901</version>
+		<version>2.900</version>
 	</parent>
 	<artifactId>jdx</artifactId>
-	<version>1.0</version>
+	<version>0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>JavaDoc eXtras — what Oracle missed…</description>
