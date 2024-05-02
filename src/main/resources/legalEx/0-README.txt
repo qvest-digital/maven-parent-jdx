@@ -47,13 +47,18 @@ from jQuery UI. They are very small and trivial and not addressed
 by upstream, when I reported MJAVADOC-669 and JDK-8259530 for this;
 nor is the CSS addressed.
 
+JDK 21 is mostly the same as JDK 17 plus:
+• new (SVG) icons under GPL+CE referring to a LICENSE file supposed
+  to accompany this (but is not, see below for COPYING, EXCEPTION)
+• search-page.js: dito
+
 So we’ve got these issues:
 • resources/glass.png, resources/x.png, stylesheet.css upstream
   ‣ assume GPLv2+CE like the rest of the JDK
-• GPL licence body missing in 8/11/17-generated JARs
-  ‣ provided as COPYING
+• GPL licence body missing in 8/11/17/21-generated JARs
+  ‣ provided as COPYING, the directory substituting LICENSE
 • "Classpath" exception actual text missing in 8/11-generated JARs
-  and wrong text in 17-generated JARs
+  and wrong text in 17/21-generated JARs
   ‣ provided as EXCEPTION
 • MIT licence body missing in 8/11-generated JARs
   ‣ provided as LICENCE.MIT

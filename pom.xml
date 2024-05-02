@@ -14,8 +14,8 @@
 	<url>https://evolvis.org/projects/tartools/</url>
 	<properties>
 		<archiver.copyright.firstyear>2022</archiver.copyright.firstyear>
-		<archiver.copyright.lastyear>2022</archiver.copyright.lastyear>
-		<archiver.copyright>Probably not copyrightable. Research Ⓕ and wording © 2021, 2022 mirabilos, ⮡ tarent (now QVEST ⮡ dıgıtal)</archiver.copyright>
+		<archiver.copyright.lastyear>2024</archiver.copyright.lastyear>
+		<archiver.copyright>Probably not copyrightable. Research Ⓕ and wording © 2021, 2022, 2024 mirabilos, ⮡ tarent (now QVEST ⮡ dıgıtal)</archiver.copyright>
 		<!-- packaging -->
 		<maven.source.skip>true</maven.source.skip>
 	</properties>
