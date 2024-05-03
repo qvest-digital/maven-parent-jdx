@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <maven2-moduleset plugin="maven-plugin@2.10.666">
   <actions/>
-  <description>&lt;p&gt;JavaDox eXtra files&lt;/p&gt;&#xd;
+  <description>&lt;p&gt;JavaDoc eXtra files&lt;/p&gt;&#xd;
 &lt;p&gt;Used by mvnparent (and everything using its parent POM).&lt;/p&gt;&#xd;
 &lt;p&gt;But also derives from that for own build!&lt;/p&gt;</description>
   <logRotator class="hudson.tasks.LogRotator">
