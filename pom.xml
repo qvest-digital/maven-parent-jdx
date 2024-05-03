@@ -16,8 +16,10 @@
 		<archiver.copyright.firstyear>2022</archiver.copyright.firstyear>
 		<archiver.copyright.lastyear>2024</archiver.copyright.lastyear>
 		<archiver.copyright>Probably not copyrightable. Research Ⓕ and wording © 2021, 2022, 2024 mirabilos, ⮡ tarent (now QVEST ⮡ dıgıtal)</archiver.copyright>
-		<!-- packaging -->
+		<!-- ‣ packaging -->
 		<maven.source.skip>true</maven.source.skip>
+		<!-- ‣ release management -->
+		<project.build.outputTimestamp>1970-01-01T00:00:00Z</project.build.outputTimestamp>
 	</properties>
 	<scm>
 		<connection>scm:git:https://evolvis.org/anonscm/git/tartools/jdx.git</connection>
