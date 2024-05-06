@@ -19,7 +19,6 @@
       <permission>hudson.model.Item.Build:tglase</permission>
       <permission>hudson.model.Item.Cancel:tglase</permission>
       <permission>hudson.model.Item.Configure:tglase</permission>
-      <permission>hudson.model.Item.Delete:tglase</permission>
       <permission>hudson.model.Item.Read:tglase</permission>
       <permission>hudson.model.Item.Release:tglase</permission>
       <permission>hudson.model.Item.Workspace:tglase</permission>
@@ -113,9 +112,9 @@ Only relevant when performing a release.</description>
   <prebuilders/>
   <postbuilders/>
   <runPostStepsIfResult>
-    <name>FAILURE</name>
-    <ordinal>2</ordinal>
-    <color>RED</color>
+    <name>SUCCESS</name>
+    <ordinal>0</ordinal>
+    <color>BLUE</color>
     <completeBuild>true</completeBuild>
   </runPostStepsIfResult>
 </maven2-moduleset>
