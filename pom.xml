@@ -15,7 +15,7 @@
 	<properties>
 		<archiver.copyright.firstyear>2022</archiver.copyright.firstyear>
 		<archiver.copyright.lastyear>2024</archiver.copyright.lastyear>
-		<archiver.copyright>Probably not copyrightable. Research Ⓕ and wording © 2021, 2022, 2024 mirabilos, ⮡ tarent (now QVEST ⮡ dıgıtal)</archiver.copyright>
+		<archiver.copyright>Research Ⓕ and wording © 2021, 2022, 2024 mirabilos, ⮡ tarent (now QVEST ⮡ dıgıtal); any copyrightable parts of this “jdx” module are dual-licenced under CC0 (note that § 2 does not apply (except in the case of § 3 Satz 2 UrhG or similar) because licensor cannot legally waive copyright) and The MirOS Licence (MirBSD), but almost all of it is probably not copyrightable, for which no rights are claimed.</archiver.copyright>
 		<!-- ‣ packaging -->
 		<maven.source.skip>true</maven.source.skip>
 		<!-- ‣ release management -->
