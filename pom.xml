@@ -7,7 +7,7 @@
 		<version>3.1</version>
 	</parent>
 	<artifactId>jdx</artifactId>
-	<version>1.2</version>
+	<version>1.3-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>${project.groupId}:${project.artifactId}</name>
 	<description>JavaDoc eXtras — what Oracle missed…</description>
@@ -19,12 +19,12 @@
 		<!-- ‣ packaging -->
 		<maven.source.skip>true</maven.source.skip>
 		<!-- ‣ release management -->
-		<project.build.outputTimestamp>2024-06-25T01:42:51Z</project.build.outputTimestamp>
+		<project.build.outputTimestamp>2024-06-25T01:43:13Z</project.build.outputTimestamp>
 	</properties>
 	<scm>
 		<connection>scm:git:https://evolvis.org/anonscm/git/tartools/jdx.git</connection>
 		<developerConnection>scm:git:ssh://maven@evolvis.org/scmrepos/git/tartools/jdx.git</developerConnection>
 		<url>https://evolvis.org/plugins/scmgit/cgi-bin/gitweb.cgi?p=tartools/jdx.git</url>
-		<tag>jdx-1.2</tag>
+		<tag>HEAD</tag>
 	</scm>
 </project>
