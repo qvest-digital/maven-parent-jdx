@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>org.evolvis.tartools.maven-parent</groupId>
 		<artifactId>pom</artifactId>
-		<version>3.1</version>
+		<version>3.4-SNAPSHOT</version>
 	</parent>
 	<artifactId>jdx</artifactId>
 	<version>1.3-SNAPSHOT</version>
